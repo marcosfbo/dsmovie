@@ -1,0 +1,6 @@
+git branch
+* master
+
+para alterar para main, se faz:
+
+git branch -M main
